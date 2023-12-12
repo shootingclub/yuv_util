@@ -11,6 +11,6 @@ add_subdirectory(util)
 # 可以没有如下部分 作为父cmakelist.txt
 add_executable(yuv main.cpp)
 
-include_directories(./libyuv/out)
-link_directories(./libyuv/out)
-target_link_libraries(yuv /Users/yaohua/c_workspace/yuv_util/libyuv/out/libyuv.a)
+#include_directories(./libyuv/out)
+#link_directories(./libyuv/out)
+#target_link_libraries(yuv /Users/yaohua/c_workspace/yuv_util/libyuv/out/libyuv.a)
