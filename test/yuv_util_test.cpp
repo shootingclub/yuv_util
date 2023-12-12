@@ -1,8 +1,10 @@
+#include "gtest/gtest.h"
 #include <iostream>
-#include "util/yuv_util.h"
-int main() {
+#include "yuv_util.h"
+
+
+TEST(PushStreamTestSuite, PushStream) {
     std::cout << "Hello, World!" << std::endl;
     yuv_util yuvUtil;
     yuvUtil.fmt();
-    return 0;
 }

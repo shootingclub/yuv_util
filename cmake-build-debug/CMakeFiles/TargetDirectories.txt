@@ -1,4 +1,0 @@
-/Users/yaohua/Downloads/yuv_util/cmake-build-debug/CMakeFiles/util.dir
-/Users/yaohua/Downloads/yuv_util/cmake-build-debug/CMakeFiles/yuv_util.dir
-/Users/yaohua/Downloads/yuv_util/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yaohua/Downloads/yuv_util/cmake-build-debug/CMakeFiles/rebuild_cache.dir
